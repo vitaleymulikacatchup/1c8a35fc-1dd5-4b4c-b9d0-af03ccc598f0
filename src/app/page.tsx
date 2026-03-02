@@ -152,6 +152,7 @@ export default function LandingPage() {
           imageSrc="http://img.b2bpic.net/free-photo/elevated-view-two-boys-gathering-confetti-wooden-floor_23-2148046178.jpg"
           imageAlt="Newsletter signup"
           mediaPosition="right"
+          mediaAnimation="slide-up"
           inputPlaceholder="Enter your email"
           buttonText="Subscribe"
           termsText="We respect your privacy. Unsubscribe at any time. No spam, just pure toy joy!"
