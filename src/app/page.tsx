@@ -149,7 +149,7 @@ export default function LandingPage() {
           description="Subscribe to our newsletter for the latest toy releases, special discounts, and parenting tips delivered straight to your inbox."
           background={{ variant: "rotated-rays-animated-grid" }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/elevated-view-two-boys-gathering-confetti-wooden-floor_23-2148046178.jpg?_wi=2"
+          videoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1771684785214-9g6egt6v.mp4"
           imageAlt="Newsletter signup"
           mediaPosition="right"
           mediaAnimation="slide-up"
