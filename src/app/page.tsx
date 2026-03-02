@@ -45,7 +45,7 @@ export default function LandingPage() {
           title="Welcome to Jio - Where Joy Comes to Play"
           description="Discover the world's most delightful toys crafted for imagination, learning, and endless fun. Every toy tells a story of happiness."
           tag="Premium Toys for Every Age"
-          imageSrc="http://img.b2bpic.net/free-photo/elevated-view-two-boys-gathering-confetti-wooden-floor_23-2148046178.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/elevated-view-two-boys-gathering-confetti-wooden-floor_23-2148046178.jpg?_wi=1"
           imageAlt="Colorful toys and children playing"
           textPosition="bottom-left"
           showBlur={true}
@@ -149,7 +149,7 @@ export default function LandingPage() {
           description="Subscribe to our newsletter for the latest toy releases, special discounts, and parenting tips delivered straight to your inbox."
           background={{ variant: "rotated-rays-animated-grid" }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/elevated-view-two-boys-gathering-confetti-wooden-floor_23-2148046178.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/elevated-view-two-boys-gathering-confetti-wooden-floor_23-2148046178.jpg?_wi=2"
           imageAlt="Newsletter signup"
           mediaPosition="right"
           mediaAnimation="slide-up"
