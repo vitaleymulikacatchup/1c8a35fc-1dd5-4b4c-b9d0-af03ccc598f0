@@ -129,10 +129,10 @@ export default function LandingPage() {
           rating={5}
           author="Sarah Mitchell, Parent"
           avatars={[
-            { src: "http://img.b2bpic.net/free-photo/3-years-baby-girl_1398-2262.jpg", alt: "Happy child" },
-            { src: "http://img.b2bpic.net/free-photo/3-years-baby-girl_1398-2262.jpg", alt: "Smiling child" },
+            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1770825104898-3rxkvw3f.jpg", alt: "Happy child" },
+            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1770825104898-3rxkvw3f.jpg", alt: "Smiling child" },
             { src: "http://img.b2bpic.net/free-photo/playing-boy_1098-18497.jpg", alt: "Child playing" },
-            { src: "http://img.b2bpic.net/free-photo/3-years-baby-girl_1398-2262.jpg", alt: "Happy kid" },
+            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1770825104898-3rxkvw3f.jpg", alt: "Happy kid" },
             { src: "http://img.b2bpic.net/free-photo/outdoor-portrait-three-year-girl_1398-5129.jpg", alt: "Joyful child" },
             { src: "http://img.b2bpic.net/free-photo/happy-girl-laughing-park_1139-229.jpg", alt: "Smiling kid" }
           ]}
