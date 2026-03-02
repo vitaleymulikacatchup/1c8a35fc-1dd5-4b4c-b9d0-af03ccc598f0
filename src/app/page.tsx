@@ -7,7 +7,7 @@ import ProductCardFour from '@/components/sections/product/ProductCardFour';
 import AboutMetric from '@/components/sections/about/AboutMetric';
 import FeatureCardOne from '@/components/sections/feature/FeatureCardOne';
 import TestimonialCardFifteen from '@/components/sections/testimonial/TestimonialCardFifteen';
-import ContactCenter from '@/components/sections/contact/ContactCenter';
+import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterBaseReveal from '@/components/sections/footer/FooterBaseReveal';
 import { Award, Globe, Package, Sparkles } from 'lucide-react';
 
@@ -143,12 +143,15 @@ export default function LandingPage() {
       </div>
 
       <div id="contact" data-section="contact">
-        <ContactCenter
+        <ContactSplit
           tag="Stay Connected"
           title="Never Miss Out on New Toys & Exclusive Deals"
           description="Subscribe to our newsletter for the latest toy releases, special discounts, and parenting tips delivered straight to your inbox."
           background={{ variant: "rotated-rays-animated-grid" }}
           useInvertedBackground={false}
+          imageSrc="http://img.b2bpic.net/free-photo/elevated-view-two-boys-gathering-confetti-wooden-floor_23-2148046178.jpg"
+          imageAlt="Newsletter signup"
+          mediaPosition="right"
           inputPlaceholder="Enter your email"
           buttonText="Subscribe"
           termsText="We respect your privacy. Unsubscribe at any time. No spam, just pure toy joy!"
